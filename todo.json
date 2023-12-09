@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "todo": "main bola takraw",
+      "description": "saya main bola di pantai",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "todo": "tidur",
+      "description": "tidur siang"
+    },
+    {
+      "todo": "Belajar koding",
+      "description": "bahasa javascript",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "todo": "Belajar",
+      "description": "belajar fudamental pemrograman"
+    },
+    {
+      "id": 4,
+      "todo": "tidur siang",
+      "description": "cape abis main"
+    }
+  ]
+}
